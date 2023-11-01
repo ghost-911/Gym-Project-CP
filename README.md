@@ -22,7 +22,6 @@ This gym application is a feature-rich solution that comprises two primary pages
 - **Responsive Design**: Our gym application is responsive, ensuring a consistent and user-friendly experience across a wide range of devices, including smartphones, tablets, and desktops.
 
 
-
 ## Technologies Used
 
 Our gym application leverages the following technologies and tools:
@@ -38,6 +37,12 @@ Our gym application leverages the following technologies and tools:
 - HTML/CSS: These fundamental web technologies are used for structuring web pages and custom styling, in conjunction with MaterialUI.
 
 - API Integration: The application utilizes API integration techniques to fetch and display real-time exercise suggestions and associated YouTube videos.
+
+  ![Landing Page](https://github.com/ghost-911/Gym-Project-CP/blob/91ed9e8837ae83f6b1208e5c5dcd1f30d5fb4adf/Screenshot_20231101_213347.png)
+  ![](https://github.com/ghost-911/Gym-Project-CP/blob/91ed9e8837ae83f6b1208e5c5dcd1f30d5fb4adf/Screenshot_20231101_213407.png)
+  ![](https://github.com/ghost-911/Gym-Project-CP/blob/91ed9e8837ae83f6b1208e5c5dcd1f30d5fb4adf/Screenshot_20231101_213427.png)
+  ![Exercise Page](https://github.com/ghost-911/Gym-Project-CP/blob/91ed9e8837ae83f6b1208e5c5dcd1f30d5fb4adf/Screenshot_20231101_213448.png)
+  ![Youtube recommendation according to exercises searched](https://github.com/ghost-911/Gym-Project-CP/blob/91ed9e8837ae83f6b1208e5c5dcd1f30d5fb4adf/Screenshot_20231101_213516.png)
 
 ## Feedback and Contributions
 
